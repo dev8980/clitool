@@ -19,9 +19,10 @@ Make sure you have [Node.js](https://nodejs.org/) installed.
 
 ## Usage
 Run the below command to display information about the first 20 even numbered TODOs:
-    ```bash
-    npm start
+```bash
+npm start
+```
 
 ## UI Showcase
 
-![Alt Text](public/Even Numbered TODOS.png)
+![Alt Text](https://github.com/dev8980/clitool/public/Even Numbered TODOS.png)
