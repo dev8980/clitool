@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+.parentContainer {
+  height: 100vh;
+  overflow-y: hidden; 
+}
+
+.todoContainer {
+  max-height: 80vh;
+  overflow-y: auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.todoCard {
+  width: calc(50% - 16px);
+  margin: 0 8px 16px;
+}
+
+.headingText {
+  margin-top: 1rem !important;
+  margin-bottom: 1rem !important;
+}
+
+.completedIconContainer {
+  display: flex;
+}
